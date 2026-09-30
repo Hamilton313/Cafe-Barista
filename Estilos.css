@@ -20,4 +20,6 @@ body {
   background-color: #98bee2;
   font-family: 'Times New Roman', serif;
   border: 3px solid black;
+  box-shadow: 0 4px 8px rgba(250, 118, 118, 0.1);
 }
+
