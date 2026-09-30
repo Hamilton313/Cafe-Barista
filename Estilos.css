@@ -17,9 +17,15 @@ h1 {
 }
 
 body {
-  background-color: #98bee2;
+  background-color: #116e168c;
   font-family: 'Times New Roman', serif;
-  border: 3px solid black;
-  box-shadow: 0 4px 8px rgba(250, 118, 118, 0.1);
+  border: 3px solid rgba(151, 24, 24, 0.849);
+  box-shadow: 0 4px 8px rgba(47, 149, 207, 0.1);
 }
 
+.fondo-degradado {
+  background: linear-gradient(135deg, #74b9ff, #a29bfe);
+  min-height: 200px;
+  padding: 20px;
+  color: white;
+}
